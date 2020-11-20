@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddUseDatabaseNameInAllfiles", "AddUseDatabaseNameInAllfiles\AddUseDatabaseNameInAllfiles.csproj", "{B3D857D8-ED65-47AC-9DDB-70B04FE89453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D857D8-ED65-47AC-9DDB-70B04FE89453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D857D8-ED65-47AC-9DDB-70B04FE89453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D857D8-ED65-47AC-9DDB-70B04FE89453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D857D8-ED65-47AC-9DDB-70B04FE89453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CDCC43D-A4C8-4E81-A0C6-279C6870918D}
+	EndGlobalSection
+EndGlobal
